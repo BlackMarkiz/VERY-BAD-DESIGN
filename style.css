@@ -1,0 +1,178 @@
+nav {
+	background-color: purple;
+	position: fixed;
+	padding: 2%;
+	height: 100%;
+	border-radius: 15px;
+}
+a {
+	color: white;
+	text-decoration: none; 
+}
+body {
+	margin: 0;
+}
+ul {
+   list-style-type: none;
+   padding: 0;
+}
+h2 {
+	color: white;
+}
+h1 {
+	text-align: center;
+	margin: 0;
+	padding-top: 70px;
+}
+.case {
+	color: purple;
+}
+.showcase {
+	margin-left: 36%;
+}
+hr {
+	border-color: purple;
+	margin: 0;
+	border-width: 5px;
+	border-radius: 10px;
+}
+.rooms {
+	width: 40%;
+	border-radius: 10%;
+	margin: 2%;
+	opacity: 0.7;
+}
+.services {
+	margin-left: 36%;
+	width: 56%;
+}
+.Designers {
+	margin-left: 36%;
+	width: 56%;
+}
+ .Designers p { 
+	text-align: justify;
+}
+.maincontainer {
+	display: flex;
+}
+.people {
+	width: 100%;
+	border-radius: 10px;
+}
+.item {
+	margin: 3%;
+}
+.itemcontent {
+	background-color: #E9EFF2;
+	border-radius: 10px;
+	padding: 5%;
+}
+.work {
+	color: gray;
+}
+.box {
+	margin-left: 36%;
+	width: 56%;
+}
+.box1 {
+	color: purple;
+}
+.homework {
+     color: purple;
+     background-color: white;
+     border-radius: 10px;
+     padding: 10px;
+}
+.flex {
+	display: flex;
+}
+.flex li {
+    padding:  7%;
+    border-bottom: silver solid 1px;
+    background-color: #E9EFF2;
+    text-align: center;
+}
+#cool, #normal {
+	padding: 10%;
+}
+#normal {
+	background-color: purple;
+	color: white;
+	border-radius: 5px;
+}
+#cool {
+	background-color: #E36A18;
+	color: white;
+	border-radius: 5px;
+}
+.flex ul {
+	width: 100%;
+	margin: 3%;
+}
+.linkpro {
+	background-color: #E36A18;
+	color: white;
+	padding: 10px;
+	border-radius: 10px;
+}
+ .homework:hover {
+ 	color: white;
+ 	background-color: purple;
+ }
+ .linkpro:hover {
+ 	color: orange;
+ 	background-color: white;
+ }
+ .youtube:hover {
+ 	color: red;
+ 	background-color: white;
+ 	border-radius: 10px;
+ 	padding: 10px;
+ }
+ .GAME:hover {
+ 	color: white;
+ 	background-color: orange;
+ 	border-radius: 10px;
+ 	padding: 10px;
+ }
+ .cursor:hover {
+ 	color: white;
+ 	background-color: lightpink;
+ 	border-radius: 10px;
+ 	padding: 10px;
+ }
+ .favgame:hover {
+ 	color: white;
+ 	background-color: black;
+ 	border-radius: 10px;
+ 	padding: 10px;
+ }
+ .craft:hover {
+ 	color: #224F10;
+ 	background-color: #4F2A10;
+ 	border-radius: 10px;
+ 	padding: 10px;
+ }
+ .text1 {
+ 	color: purple;
+ 	margin-right: 10%;
+ }
+ .contact {
+     margin-left: 30%;
+ }
+ input {
+ 	width: 100%;
+ 	padding: 10px;
+ 	border: 1px solid lightgray;
+ 	margin-bottom: 10px;
+ } 
+button {
+	border-radius: 10px;
+	width: 80%;
+	padding: 10px;
+	color: white;
+	background-color: purple;
+    margin: 10px auto;
+    display: block;
+}
